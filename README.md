@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gaurav-Hassija
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning javascript stack
-- 💞️ I’m looking to collaborate on angular and nodejs 
+- 💞️ I’m looking to collaborate on react and nodejs 
 - 📫 How to reach me hassijagaurav21@gmail.com
 
 <!---
